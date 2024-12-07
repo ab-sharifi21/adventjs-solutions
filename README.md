@@ -15,6 +15,7 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 |  02   |     Create magical frame     |    Easy    | [Show](https://adventjs.dev/en/challenges/2024/2) |
 |  03   |      Organize inventory      |    Easy    | [Show](https://adventjs.dev/en/challenges/2024/3) |
 |  04   | Decorating the Chrismas tree |   Medium   | [Show](https://adventjs.dev/en/challenges/2024/4) |
+|  04   |         Shoe paring          |    Easy    | [Show](https://adventjs.dev/en/challenges/2024/5) |
 
 
 </details>
