@@ -18,6 +18,7 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 |  05   |         Shoe paring          |    Easy    | [Show](https://adventjs.dev/en/challenges/2024/5) |
 |  06   |  Is the gift inside the box  |   Medium   | [Show](https://adventjs.dev/en/challenges/2024/6) |
 |  07   |     The Grinch's attack      |   Medium   | [Show](https://adventjs.dev/en/challenges/2024/7) |
+|  08   |        The reno race         |    Easy    | [Show](https://adventjs.dev/en/challenges/2024/8) |
 
 
 </details>
