@@ -22,3 +22,13 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 
 
 </details>
+
+
+## 🤝 Contributions 
+
+If you have ideas to improve my solutions, feel free to open an issue or a pull request!
+<br>
+<br>
+<hr>
+
+I hope you enjoyed the challenges and have fun with them! 🎉
