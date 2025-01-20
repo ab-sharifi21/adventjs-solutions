@@ -19,6 +19,7 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 |  06   |  Is the gift inside the box  |   Medium   | [📖 Show](https://adventjs.dev/en/challenges/2024/6) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/challenge6/challenge6.js) |
 |  07   |     The Grinch's attack      |   Medium   | [📖 Show](https://adventjs.dev/en/challenges/2024/7) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/challenge7/challenge7.js) |
 |  08   |        The reno race         |    Easy    | [📖 Show](https://adventjs.dev/en/challenges/2024/8) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/challenge8/challenge8.js) |
+|  09   |       The magic train        |   Medium   | [📖 Show](https://adventjs.dev/en/challenges/2024/9) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/challenge9/challenge9.js) |
 
 
 </details>
