@@ -5,7 +5,7 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 
 <details hide>
 
-<summary>Show 👇 / Hide 👆</summary>
+<summary>Show 👇 / Hide 👆 - 2024 challenges</summary>
 
 ## 🤖 Challenges
 
