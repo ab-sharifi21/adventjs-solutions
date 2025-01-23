@@ -5,8 +5,10 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 <details hide>
 <summary>Show 👇 / Hide 👆 - 2023 challenges</summary>
 
-|   #   | Challenge | Difficulty | Description | Solution |
-| :---: | :-------: | :--------: | :---------: | :------: |
+|   #   |      Challenge      | Difficulty |                      Description                      |                                                 Solution                                                 |
+| :---: | :-----------------: | :--------: | :---------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|  01   | First gift repeated |    easy    | [📖 Show](https://2023.adventjs.dev/challenges/2023/1) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/2023/challenge1/challenge1.js) |
+
 </details>
 
 <hr>
