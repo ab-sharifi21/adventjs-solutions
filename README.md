@@ -8,6 +8,7 @@ This repository includes solutions to the challenges presented by [@midudev](htt
 |   #   |      Challenge      | Difficulty |                      Description                      |                                                 Solution                                                 |
 | :---: | :-----------------: | :--------: | :---------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 |  01   | First gift repeated |    easy    | [📖 Show](https://2023.adventjs.dev/challenges/2023/1) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/2023/challenge1/challenge1.js) |
+|  02   | First gift repeated |    easy    | [📖 Show](https://2023.adventjs.dev/challenges/2023/2) | [👁️ Solution](https://github.com/ab-sharifi21/adventjs-solutions/blob/main/2023/challenge2/challenge2.js) |
 
 </details>
 
